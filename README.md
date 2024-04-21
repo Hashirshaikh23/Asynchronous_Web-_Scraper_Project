@@ -24,13 +24,17 @@ This project is an asynchronous web scraper implemented in Python using asyncio 
 ## Usage
 
 1. Navigate to the directory containing the project:
-   - cd async-web-scraper
+   -  Run the command : `cd async-web-scraper`
 
-2. Run the web scraper:
-   - python async_web_scraper.py
+2.  Navigate to the directory where both Python files (async_web_scraper.py and create_database.py) are saved.
+    - Run the command: `python create_database.py`
+    - This will create the SQLite database file scraped_data.db in the same directory.
+    
+4.  Run the web scraper:
+   - Run the command : `python async_web_scraper.py` 
 
-3. To query the database and retrieve scraped data:
-    - python query_database.py    
+4. To query the database and retrieve scraped data:
+    - Run the command : `python query_database.py`    
 
 
 ## Contributing
