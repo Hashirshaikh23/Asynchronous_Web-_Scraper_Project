@@ -1,4 +1,4 @@
-# Asynchronous_Web-_Scraper_Project
+# Asynchronous_Web_Scraper_Project
 Asynchronous web scraper is a Python project that uses the asyncio and aiohttp libraries to retrieve data from multiple websites simultaneously. Enables high-performance scraping to quickly extract and retrieve data from multiple online sources
 This project is an asynchronous web scraper implemented in Python using asyncio and aiohttp. It allows you to scrape data from multiple websites concurrently and save it to an SQLite database.
 
